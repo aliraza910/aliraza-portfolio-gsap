@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Details</title>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed – Ali Raza" href="/rss.xml">
+<style>
+  body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
+  h1 { color: #1a202c; }
+  h2 { margin-top: 20px; }
+  ul { margin-left: 20px; }
+</style>
+</head>
+<body>
+
+<h1 id="job-title"></h1>
+<p><strong>Job Type | Arbeitszeit:</strong> <span id="job-type"></span></p>
+<p><strong>Location | Standort:</strong> <span id="job-location"></span></p>
+
+<div class="skills">
+  <h2>Hard Skills | Technische Fähigkeiten:</h2>
+  <ul id="hard-skills"></ul>
+</div>
+
+<div class="soft-skills">
+  <h2>Soft Skills | Soziale Fähigkeiten:</h2>
+  <ul id="soft-skills"></ul>
+</div>
+
+<div class="summary">
+  <h2>Summary | Zusammenfassung:</h2>
+  <p id="summary"></p>
+</div>
+
+<script src="jobs-data.js"></script>
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get("slug");
+  const job = jobs.find(j => j.slug === slug);
+
+  if (job) {
+    document.getElementById("job-title").textContent = job.title;
+    document.getElementById("job-type").textContent = job.jobType;
+    document.getElementById("job-location").textContent = job.location;
+    document.getElementById("summary").textContent = job.summary;
+
+    const hardSkillsList = document.getElementById("hard-skills");
+    job.hardSkills.forEach(skill => {
+      const li = document.createElement("li");
+      li.textContent = skill;
+      hardSkillsList.appendChild(li);
+    });
+
+    const softSkillsList = document.getElementById("soft-skills");
+    job.softSkills.forEach(skill => {
+      const li = document.createElement("li");
+      li.textContent = skill;
+      softSkillsList.appendChild(li);
+    });
+  } else {
+    document.body.innerHTML = "<h1>Job not found | Stelle nicht gefunden</h1>";
+  }
+</script>
+</body>
+</html>
