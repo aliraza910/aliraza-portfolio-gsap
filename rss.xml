@@ -1,224 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
     <title>Ali Raza – Job Updates | Profil-Updates</title>
     <link>https://aliiraza.icu</link>
     <description>Latest jobs and updates from my professional profile | Neueste Jobs und Updates aus meinem Profil</description>
     <language>de-DE</language>
+<atom:link href="https://aliiraza.icu/rss.xml" rel="self" type="application/rss+xml" />
 
-    <!-- 50 Job Items -->
+
 <item>
-  <title>Fullstack Developer – Berlin</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=fullstack-berlin</link>
-  <description><![CDATA[
+<title>Fullstack Developer – Berlin</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=fullstack-berlin</link>
+<guid isPermaLink="false">fullstack-berlin</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Berlin, Germany | Berlin, Deutschland
     Hard Skills: JavaScript, TypeScript, Next.js, React, Node.js, Express, MERN, Git, Java, C, REST APIs, GraphQL, SQL/NoSQL, HTML5, CSS3, Tailwind, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail, Leadership potential
     Summary: Looking for challenging fullstack development roles with modern web technologies. | Suche nach herausfordernden Fullstack-Entwicklerrollen mit modernen Webtechnologien.
-  ]]></description>
-  <pubDate>Mon, 09 Feb 2026 10:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 09:00:00 GMT</pubDate>
 </item>
 
 <item>
-<item>
-  <title>Frontend Developer – Remote</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=frontend-remote</link>
-  <description><![CDATA[
+<title>Frontend Developer – Remote</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=frontend-remote</link>
+<guid isPermaLink="false">frontend-remote</guid>
+<description><![CDATA[
     Job Type: Contract | Vertrag
     Location: Remote, Germany | Remote, Deutschland
     Hard Skills: JavaScript, TypeScript, Next.js, React, Node.js, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail
     Summary: Excited to work on cutting-edge frontend technologies. | Interessiert an der Arbeit mit modernen Frontend-Technologien.
-  ]]></description>
-  <pubDate>Tue, 10 Feb 2026 12:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:55:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>MERN Stack Developer – Munich</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=mern-munich</link>
-  <description><![CDATA[
+<title>MERN Stack Developer – Munich</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=mern-munich</link>
+<guid isPermaLink="false">mern-munich</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Munich, Germany | München, Deutschland
     Hard Skills: JavaScript, Node.js, Express, React, MongoDB, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail, Mentoring juniors
     Summary: Seeking fullstack opportunities focused on MERN technologies and scalable web applications. | Suche nach Fullstack-Möglichkeiten mit Fokus auf MERN-Technologien und skalierbaren Webanwendungen.
-  ]]></description>
-  <pubDate>Wed, 11 Feb 2026 09:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:50:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Backend Developer – Frankfurt</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=backend-frankfurt</link>
-  <description><![CDATA[
+<title>Backend Developer – Frankfurt</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=backend-frankfurt</link>
+<guid isPermaLink="false">backend-frankfurt</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Frankfurt, Germany | Frankfurt, Deutschland
     Hard Skills: Node.js, Express, Java, C, REST APIs, GraphQL, SQL/NoSQL, Git, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Attention to detail
     Summary: Looking for backend-focused roles with modern web technologies and scalable systems. | Suche nach Backend-orientierten Rollen mit modernen Webtechnologien und skalierbaren Systemen.
-  ]]></description>
-  <pubDate>Thu, 12 Feb 2026 11:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:45:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Fullstack Developer – Remote</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=fullstack-remote</link>
-  <description><![CDATA[
+<title>Fullstack Developer – Remote</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=fullstack-remote</link>
+<guid isPermaLink="false">fullstack-remote</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Remote, Germany | Remote, Deutschland
     Hard Skills: JavaScript, TypeScript, Next.js, React, Node.js, Express, MERN, Git, REST APIs, GraphQL, SQL/NoSQL, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail
     Summary: Open to remote fullstack positions with modern web stacks and agile teams. | Offen für Remote-Fullstack-Positionen mit modernen Web-Stacks und agilen Teams.
-  ]]></description>
-  <pubDate>Fri, 13 Feb 2026 14:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:40:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>React Developer – Hamburg</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=react-hamburg</link>
-  <description><![CDATA[
+<title>React Developer – Hamburg</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=react-hamburg</link>
+<guid isPermaLink="false">react-hamburg</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Hamburg, Germany | Hamburg, Deutschland
     Hard Skills: JavaScript, React, Next.js, Node.js, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Attention to detail
     Summary: Seeking frontend roles focused on React and Next.js development. | Suche nach Frontend-Rollen mit Fokus auf React und Next.js Entwicklung.
-  ]]></description>
-  <pubDate>Sat, 14 Feb 2026 09:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:35:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Fullstack Developer – Cologne</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=fullstack-cologne</link>
-  <description><![CDATA[
+<title>Fullstack Developer – Cologne</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=fullstack-cologne</link>
+<guid isPermaLink="false">fullstack-cologne</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Cologne, Germany | Köln, Deutschland
     Hard Skills: JavaScript, TypeScript, React, Node.js, Express, MERN, Git, REST APIs, GraphQL, SQL/NoSQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail
     Summary: Fullstack developer seeking opportunities in scalable web applications. | Fullstack-Entwickler sucht Möglichkeiten in skalierbaren Webanwendungen.
-  ]]></description>
-  <pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:30:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Backend Developer – Stuttgart</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=backend-stuttgart</link>
-  <description><![CDATA[
+<title>Backend Developer – Stuttgart</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=backend-stuttgart</link>
+<guid isPermaLink="false">backend-stuttgart</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Stuttgart, Germany | Stuttgart, Deutschland
     Hard Skills: Node.js, Express, Java, C, REST APIs, GraphQL, SQL/NoSQL, Git, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Attention to detail
     Summary: Backend-focused role with modern web technologies. | Backend-orientierte Rolle mit modernen Webtechnologien.
-  ]]></description>
-  <pubDate>Mon, 16 Feb 2026 11:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:25:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>MERN Stack Developer – Düsseldorf</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=mern-dusseldorf</link>
-  <description><![CDATA[
+<title>MERN Stack Developer – Düsseldorf</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=mern-dusseldorf</link>
+<guid isPermaLink="false">mern-dusseldorf</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Düsseldorf, Germany | Düsseldorf, Deutschland
     Hard Skills: JavaScript, Node.js, Express, React, MongoDB, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability, Attention to detail
     Summary: MERN stack opportunities for building scalable apps. | MERN-Stack-Möglichkeiten für skalierbare Anwendungen.
-  ]]></description>
-  <pubDate>Tue, 17 Feb 2026 09:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:20:00 GMT</pubDate>
 </item>
 
-<!-- Continue similarly for items 10–50 -->
 <item>
-  <title>Fullstack Developer – Leipzig</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=fullstack-leipzig</link>
-  <description><![CDATA[
+<title>Fullstack Developer – Leipzig</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=fullstack-leipzig</link>
+<guid isPermaLink="false">fullstack-leipzig</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Leipzig, Germany | Leipzig, Deutschland
     Hard Skills: JavaScript, React, Node.js, Express, MERN, Git, REST APIs, SQL/NoSQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Attention to detail
     Summary: Looking for fullstack opportunities in growing tech companies. | Suche nach Fullstack-Möglichkeiten in wachsenden Technologieunternehmen.
-  ]]></description>
-  <pubDate>Wed, 18 Feb 2026 10:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:15:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Frontend Developer – Nuremberg</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=frontend-nuremberg</link>
-  <description><![CDATA[
+<title>Frontend Developer – Nuremberg</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=frontend-nuremberg</link>
+<guid isPermaLink="false">frontend-nuremberg</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Nuremberg, Germany | Nürnberg, Deutschland
     Hard Skills: JavaScript, React, Next.js, Node.js, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Attention to detail
     Summary: Seeking frontend roles with React and Next.js. | Suche nach Frontend-Rollen mit React und Next.js.
-  ]]></description>
-  <pubDate>Thu, 19 Feb 2026 11:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:10:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>MERN Stack Developer – Hannover</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=mern-hannover</link>
-  <description><![CDATA[
+<title>MERN Stack Developer – Hannover</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=mern-hannover</link>
+<guid isPermaLink="false">mern-hannover</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Hannover, Germany | Hannover, Deutschland
     Hard Skills: JavaScript, Node.js, Express, React, MongoDB, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability
     Summary: MERN stack developer seeking remote or onsite roles. | MERN-Stack-Entwickler sucht Remote- oder Vor-Ort-Rollen.
-  ]]></description>
-  <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:05:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Fullstack Developer – Bremen</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=fullstack-bremen</link>
-  <description><![CDATA[
+<title>Fullstack Developer – Bremen</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=fullstack-bremen</link>
+<guid isPermaLink="false">fullstack-bremen</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Bremen, Germany | Bremen, Deutschland
     Hard Skills: JavaScript, TypeScript, React, Node.js, Express, MERN, Git, REST APIs, GraphQL, SQL/NoSQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management, Adaptability
     Summary: Fullstack developer roles in scalable applications. | Fullstack-Entwicklerrollen in skalierbaren Anwendungen.
-  ]]></description>
-  <pubDate>Sat, 21 Feb 2026 10:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Backend Developer – Bonn</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=backend-bonn</link>
-  <description><![CDATA[
+<title>Backend Developer – Bonn</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=backend-bonn</link>
+<guid isPermaLink="false">backend-bonn</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Bonn, Germany | Bonn, Deutschland
     Hard Skills: Node.js, Express, Java, C, REST APIs, GraphQL, SQL/NoSQL, Git, CI/CD, Cloud Deployment
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management
     Summary: Backend developer roles in modern tech stacks. | Backend-Entwicklerrollen in modernen Tech-Stacks.
-  ]]></description>
-  <pubDate>Sun, 22 Feb 2026 09:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 07:55:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>MERN Stack Developer – Freiburg</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=mern-freiburg</link>
-  <description><![CDATA[
+<title>MERN Stack Developer – Freiburg</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=mern-freiburg</link>
+<guid isPermaLink="false">mern-freiburg</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Freiburg, Germany | Freiburg, Deutschland
     Hard Skills: JavaScript, Node.js, Express, React, MongoDB, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind, CI/CD
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management
     Summary: MERN stack opportunities in innovative projects. | MERN-Stack-Möglichkeiten in innovativen Projekten.
-  ]]></description>
-  <pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 07:50:00 GMT</pubDate>
 </item>
 
 <item>
-  <title>Frontend Developer – Dresden</title>
-  <link>https://aliiraza.icu/jobs/index.html?slug=frontend-dresden</link>
-  <description><![CDATA[
+<title>Frontend Developer – Dresden</title>
+<link>https://aliiraza.icu/jobs/index.html?slug=frontend-dresden</link>
+<guid isPermaLink="false">frontend-dresden</guid>
+<description><![CDATA[
     Job Type: Full-time | Vollzeit
     Location: Dresden, Germany | Dresden, Deutschland
     Hard Skills: JavaScript, React, Next.js, Node.js, Git, REST APIs, GraphQL, HTML5, CSS3, Tailwind
     Soft Skills: Problem-solving, Team collaboration, Agile, Communication (EN & DE), Time management
     Summary: Frontend role with modern JS frameworks. | Frontend-Rolle mit modernen JS-Frameworks.
-  ]]></description>
-  <pubDate>Tue, 24 Feb 2026 11:00:00 GMT</pubDate>
+]]></description>
+<pubDate>Mon, 09 Feb 2026 07:45:00 GMT</pubDate>
 </item>
-
-<!-- Continue adding items 18–50 following the same format -->
 
 </channel>
 </rss>
-
