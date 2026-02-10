@@ -1416,3 +1416,8 @@ body::-webkit-scrollbar-thumb {
         font-size: 8vw;
     }
 }
+
+.github-stats {
+  max-width: 420px;
+  width: 100%;
+}
