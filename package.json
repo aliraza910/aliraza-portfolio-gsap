@@ -4,9 +4,7 @@
   "private": true,
   "scripts": {
     "clean": "node -e \"try { fs.rmSync('.next', { recursive: true, force: true }); } catch (e) {}\"",
-    "predev": "node -e \"try { fs.rmSync('.next', { recursive: true, force: true }); } catch (e) {}\"",
     "dev": "next dev -p 3000",
-    "prebuild": "node -e \"const dirs=['about','api','api/contact','api/disable-draft','api/draft','api/revalidate','api/search','api/sitemaps','api/sitemaps/pages','api/sitemaps/posts','blog','blog/[slug]','contact','feed.xml','learning','projects','search','sitemap','uses']; dirs.forEach(d => { try { fs.mkdirSync('.next/server/app/' + d, { recursive: true }); fs.mkdirSync('.next/types/app/' + d, { recursive: true }); } catch (e) {} });\"",
     "build": "next build",
     "start": "next start -p 3000",
     "lint": "next lint"
