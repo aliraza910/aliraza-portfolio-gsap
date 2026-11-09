@@ -75,6 +75,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+
         <link rel="icon" href="/favicon.png" type="image/png" />
         <link rel="apple-touch-icon" href="/apple-icon.png" />
         <script
@@ -94,6 +95,7 @@ export default function RootLayout({
             `,
           }}
         />
+        <meta name="google-site-verification" content="omKcrUSc3jlbmC8E2sPszLz_-AOufHgVJLThqfuNffM" />
       </head>
       <body className="min-h-screen bg-background text-foreground font-sans antialiased selection:bg-foreground selection:text-background transition-colors duration-150">
         <div className="max-w-[840px] w-full mx-auto px-4 sm:px-6 md:px-8 flex flex-col min-h-screen">
