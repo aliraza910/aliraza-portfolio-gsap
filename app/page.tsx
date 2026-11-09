@@ -16,22 +16,28 @@ export default async function HomePage() {
 
   const experiences = [
     {
-      role: 'Senior Backend Engineer',
-      company: 'Distributed Infrastructure',
-      period: '2023 — Present',
-      desc: 'Architecting high-throughput data pipelines, internal RPC gateways, and caching layers.',
+      role: 'FullStack Developer ',
+      company: 'Emenac Inc',
+      period: 'May 2025 — Present',
+      desc: 'Develop high-quality web applications using modern technologies and best practices. Working on concurrency using Golang to develop high available backend and infra',
     },
     {
-      role: 'Systems & Backend Developer',
-      company: 'Platform Team',
-      period: '2021 — 2023',
-      desc: 'Maintained containerized services, PostgreSQL query optimizations, and telemetry tooling.',
+      role: 'MERN Developer',
+      company: 'Webbuggs',
+      period: 'Jan 2024 - May 2025',
+      desc: 'Learn to developer backend infrastrcuture, maintan and scalable API and database. Develop university of california enrollment system.',
     },
     {
-      role: 'Software Engineer',
-      company: 'Core Products',
-      period: '2019 — 2021',
-      desc: 'Built REST and gRPC services, relational schema migrations, and asynchronous background queues.',
+      role: 'FrontEnd Developer',
+      company: 'Pak Xolpria',
+      period: 'Aug 2023 — Dec 2023',
+      desc: "interactive and user-friendly web interfaces using modern frontend technologies.",
+    },
+    {
+      role: 'FrontEnd Developer Intern',
+      company: 'Pak Xolpria',
+      period: 'March 2023 — June 2023',
+      desc: "Learn the basics of web development. Deep dive into Javascript and React",
     },
   ];
 
